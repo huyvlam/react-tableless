@@ -1,6 +1,6 @@
 # react-tableless
 yarn add react-tableless  
-OR
+OR  
 npm install react-tableless
 
 React Tableless is a grid layout component modeled after html table elements. It means to be used where tabular layout is desired but the use of table syntaxes are not appropriate.
