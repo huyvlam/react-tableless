@@ -1,5 +1,5 @@
 # react-tableless
-yarn add react-tableless
+yarn add react-tableless  
 OR
 npm install react-tableless
 
