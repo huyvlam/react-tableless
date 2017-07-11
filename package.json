@@ -12,8 +12,7 @@
   "description": "React Tableless is a grid layout component modeled after html table elements. It means to be used where grid layout is desired but the use of table syntaxes are not appropriate.",
   "main": "index.js",
   "files": [
-    "bin/",
-    "dist/"
+    "client/components"
   ],
   "repository": {
     "url": "git+https://github.com/huyvlam/react-tableless.git",

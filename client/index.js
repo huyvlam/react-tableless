@@ -1,1 +1,1 @@
-export default from './components/tableless'
+export default from './components'
